@@ -2,6 +2,9 @@
 Script to run in your console to download chat history with chatgpt
 
 
+or just press (cmd+s) 🙄
+
+
 # To Use
 
 1. copy contents from `script.js`
